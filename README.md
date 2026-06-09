@@ -53,7 +53,8 @@ docker compose up --build
 
 ## Team Ownership
 
-- **Ahmad** — Dataset Processing & Cleaning
-- **Sahasra** — OCR Pipeline
-- **Sandeep** — NER Extraction
-- **Azmat** — Clause Classification, Risk Scoring, Integration
+- **Ahmad** — Risk Scoring + OCR Pipeline 
+- **Sahasra** — NER Extraction
+- **Sandeep** — FastAPI
+- **Lakshya** — Dataset Processing & Cleaning
+- **Azmat** — Clause ClassificatioN + Integration
